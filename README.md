@@ -1,5 +1,5 @@
 # INVENTARIS PUSKESMAS PANIKI BAWAH
-Project untuk Mata Kuliah KP (Kerja Proyek)
+Project yang dibuat untuk Mata Kuliah KP (Kerja Proyek) pada awal tahun 2017
 
 # Cara Install
 - Edit file /config/database.php dan sesuaikan dengan database anda
